@@ -1,0 +1,9 @@
+C:\Users\reyin\Desktop\Listas circulares Atencion de procesos\Listas circulares Atencion de procesos\bin\Debug\Listas circulares Atencion de procesos.exe.config
+C:\Users\reyin\Desktop\Listas circulares Atencion de procesos\Listas circulares Atencion de procesos\bin\Debug\Listas circulares Atencion de procesos.exe
+C:\Users\reyin\Desktop\Listas circulares Atencion de procesos\Listas circulares Atencion de procesos\bin\Debug\Listas circulares Atencion de procesos.pdb
+C:\Users\reyin\Desktop\Listas circulares Atencion de procesos\Listas circulares Atencion de procesos\obj\Debug\Listas circulares Atencion de procesos.csprojResolveAssemblyReference.cache
+C:\Users\reyin\Desktop\Listas circulares Atencion de procesos\Listas circulares Atencion de procesos\obj\Debug\Listas_circulares_Atencion_de_procesos.Form1.resources
+C:\Users\reyin\Desktop\Listas circulares Atencion de procesos\Listas circulares Atencion de procesos\obj\Debug\Listas_circulares_Atencion_de_procesos.Properties.Resources.resources
+C:\Users\reyin\Desktop\Listas circulares Atencion de procesos\Listas circulares Atencion de procesos\obj\Debug\Listas circulares Atencion de procesos.csproj.GenerateResource.Cache
+C:\Users\reyin\Desktop\Listas circulares Atencion de procesos\Listas circulares Atencion de procesos\obj\Debug\Listas circulares Atencion de procesos.exe
+C:\Users\reyin\Desktop\Listas circulares Atencion de procesos\Listas circulares Atencion de procesos\obj\Debug\Listas circulares Atencion de procesos.pdb
